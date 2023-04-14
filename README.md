@@ -1,7 +1,15 @@
 # Login-Page
 A simple Login Page done with HTML,CSS and JS
+
+
+
 So You want to see how the Page looks?
+
+
+
 Please download LIVESERVER App or double click on the html file.
+
+
 Should show you something like this:
 
 ![image](https://user-images.githubusercontent.com/48471972/232003196-59e61b64-252b-43ff-b0f9-4a3a010c5e40.png)
